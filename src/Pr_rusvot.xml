@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusvot" xml:lang="rus">
+<e>
+   <lg>
+     <l pos="Pr">без</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">ilmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">внутри</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">süämez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">для</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">vartõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">до</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">enne</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">за</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">takan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">за (куда?)</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">takka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">из-за</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">takant</t>
+       <t pos="Adp">takka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">к</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">juurõ</t>
+       <t pos="Adp">tüvve</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">к (чему)</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">ääre</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">на</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">pääll</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">на (что, кого)</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">päälle</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">от</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">juurõssõ</t>
+       <t pos="Adp">tüvveä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">перед</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">eez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">по</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">müüte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">под</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">allõ</t>
+       <t pos="Adp">nallõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">посзади</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">takan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">после</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">perrä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">против</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">vassa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">сзади</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">takant</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">с (чего, кого)</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">päälte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">у</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">juurõz</t>
+       <t pos="Adp">tüven</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">у (чего)</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">äärez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pr">через</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Adp">kautta</t>
+       <t pos="Adp">läpi</t>
+       <t pos="Adp">üli</t>
+     </tg>
+   </mg>
+</e>
+</r>

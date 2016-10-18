@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusvot" xml:lang="rus">
+<e>
+   <lg>
+     <l pos="N">Ингерманландия</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">Inkerimaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Кингисепп</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">Jaama</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Краколье</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">Jõgõperä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Красная Шапочка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">Kaunishatukkõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Санкт-Петербург</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">Petteri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Эстония</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">Viro</t>
+     </tg>
+   </mg>
+</e>
+</r>

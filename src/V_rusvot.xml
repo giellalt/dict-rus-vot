@@ -1,0 +1,2198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusvot" xml:lang="rus">
+<e>
+   <lg>
+     <l pos="V">бегать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">joossõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бояться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">pel̕l̕ete</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бродить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">häülüä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бросить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">vizgõtõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">быть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">õllõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">быть должным</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">pitä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">быть похожим</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">ühte čäüvvä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">варить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čihutta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вариться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čihhua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">верить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">uskoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">взять</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">võtta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">видеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">nähä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">висеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">rippua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">волноваться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lainõhta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">воровать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">vargõssõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">выздороветь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">praaviussõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">выпить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">rüüpete</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">выращивать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kazvatta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">высморкаться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">furissõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вязать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kuttoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">глотать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">luikõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">говорить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">jutõllõ</t>
+       <t pos="V">pajatta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">говорить по-ижорски</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lägätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гореть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">põlõa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">греметь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">jürisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">грести</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">sõuta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">греть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lämmittä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">грызть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">grizzia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гулять</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">gulaitta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">anta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">девять</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">ühesä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">делать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tehä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дразнить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">narria</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">думать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">duumõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ехать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">aja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жарить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">žaaritta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ждать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">ootõllõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">желать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tahtoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жечь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">põlõtta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">elä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жужжать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">vunissõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">журчать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">širisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">заблудиться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">öhsüä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">забывать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">unohta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">замёрзнуть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">jäättüssä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">заплетать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">plettiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">застрелить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">ampua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">засыпать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">unissua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">затихнуть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tüünissüä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">звать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kuttsua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">звенеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">elisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">звонить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">heläüttä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">знать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tunta</t>
+       <t pos="V">täätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">зудеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">pinisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">играть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">pelata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">идти</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">menne</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">искать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">ettsiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">испражнятья</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">sittua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">катать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">veerettä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">качаться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lõõkkua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">квакать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">krookõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">косить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lüvvä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кость</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">luu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">косынка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kaglõrätte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">красить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kraazgõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куковать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kukkua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кушать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">süvve</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лежать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">ležžiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лететь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lennetä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лечить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">praavitta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">valla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ловить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">püütä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">любить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">suvata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мочь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tõhtia</t>
+       <t pos="V">võissõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">найти</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">leütä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">начинать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">alka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нести</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kanta</t>
+       <t pos="V">veijõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нравиться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">näüttisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нуждаться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">hoolia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">обуваться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čenčisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">одолевать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">vooli võtta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">одурманить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">huimõtõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">освободиться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">päässe</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ослепить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lummõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">остаться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">jävvä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ответить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">vasata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">отдыхать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">hoogõtõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">отпустить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">laskõa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">падать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tokkua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">память</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">meeli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">париться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čülpisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">переводить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">vääntä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">петь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lauloa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">печься</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čühseä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">писать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čirjutta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">juvva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">плавать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">ujjua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">поворачиваться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">vääntüä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">покупать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">õssa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">положить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">panna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">полоть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čitkoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">получить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">savva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">поминать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">pominoitta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">помнить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">mälehtä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">помочь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">avitta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">понять</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">arvoa (savva)</t>
+       <t pos="V">arvõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">попробовать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">proobõtõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">прийти</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tullõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">принести</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tuvvõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">присматривать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">vahtia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">проветривать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tuulõtta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">продавать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">müüvve</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">проснуться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">havattsua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">простить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">antõssi anta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">просуться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">avahtussõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">прыгать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">üpäte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">прясть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čedretä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пусть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">la</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пятнадцать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">viisteiššümed</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">разрешить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">luvata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">рассердиться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">suuttua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">расти</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kazvoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">рвать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">reppiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">резать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lõikõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">родиться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">süntüä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">рубить избу</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">salvoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">рыться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">roitta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">светиться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">paissa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">светлеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">valkõnõssa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сжигать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">põlõtta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сидеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">issua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сказать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">jutõlla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">склоняться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">muuttua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сломать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kadgõta</t>
+       <t pos="V">rikkoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">случаться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tapahtussõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">слушаться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kuultassa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">слышать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kuulla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сметь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tõhtia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">смешить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">nagrutta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">смеяться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">nagra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">смотреть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kattsoa</t>
+       <t pos="V">vaattaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">собирать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kopitta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">собираться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">koppiussõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">солить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">soolõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">спать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">magata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">спросить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čüssüä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">спрягаться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">muuttua</t>
+       <t pos="V">muuttua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">срать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">sittua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">стоять</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">seissõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">стучать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kolissa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сушить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kuivõtta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">танцевать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tanttsia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">таять</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">sula</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">твердеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kõvõnõssa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">теряться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">ävisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ткать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kuttoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">топить (баню)</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lämmittä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">трястись</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">järissä</t>
+       <t pos="V">värissä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тянуть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tõmmõtõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">убирать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">ilata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">убить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tappa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">убить себя</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tappaussõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ударить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">viipõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">удивляться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kummitõllõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">укусить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">purrõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">умереть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">koollõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">умываться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">pessisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">упасть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kukkua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">усиливатъся</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kõvõnõssa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">утонуть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">uppossõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">учить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">õpõtta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">учиться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">õppõssõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ходить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">čävve</t>
+       <t pos="V">tallõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">хотеться</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">imotab</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">хочется</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">tahtohub</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">храпеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">grooznõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">цвести</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kukittsa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">читать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">lukõa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шелестеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">šahissõ</t>
+       <t pos="V">šapissõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шестьдесят</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">kuusčümed</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шипеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">šipisse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шить</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="V">õmmõllõ</t>
+     </tg>
+   </mg>
+</e>
+</r>

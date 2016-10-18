@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusvot" xml:lang="rus">
+<e>
+   <lg>
+     <l pos="Det">каждый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Det">jõka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">каков</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Det">miltäin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">какой-нибудь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Det">mõnikõs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">который</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Det">kumpõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">много</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Det">pal̕l̕o</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">первый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Det">esimein</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">последний</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Det">viimein</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">такой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Det">mokom</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">третий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="Det">kõlmõz</t>
+     </tg>
+   </mg>
+</e>
+</r>

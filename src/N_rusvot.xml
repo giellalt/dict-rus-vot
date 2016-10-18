@@ -1,0 +1,6250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusvot" xml:lang="rus">
+<e>
+   <lg>
+     <l pos="N">cеть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">võrkko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">август</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">augusti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">автобусная остановка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ostanofkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">амбар</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ratis</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ансамбль</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ansambeli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">апрель</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">apreli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бабочка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rokkalintu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бабушка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ämme</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">баня</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">saunõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">баран</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">boranõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">белка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õravõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">берег</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rantõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">березовый сок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">mahlõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">берёза</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">koivu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">блин</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rehtelkakku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бобер</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">bobrõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бог</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jumalõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">болезнь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">läsü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">болото</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">soo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">боль</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tuskõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">боровик</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">obakkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">борода</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">partõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ботинок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čenče</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">брат</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vello</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бревенчатый дом</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">irsikoto</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">брусника</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">poolõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">брюква</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lanttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">будка для зимней рыбалки</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">butkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">буква</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">bukvõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">буря</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tormi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бык</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ärče</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">варежкa</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">alõnõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">варенье</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">varen̕n̕a</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ватрушка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vatruškõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">везёт</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">veeb</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">велосипед</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">velosipedõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">веник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vihtõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">верхушка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ladvõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">весло</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">airo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">весна</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čeväd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ветер</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tuuli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ветка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õhsõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вечер</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ohtõgo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вещь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">az̕z̕õ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вишня</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">višn̕õ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">внук</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vunukkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вода</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vesi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вожанин</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vad̕d̕akko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">возраст</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ičä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">война</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sõta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">волк</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">susi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">волна</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lainõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">волосы</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ivusõd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">воробей</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">värpö</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ворона</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">varõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">воскресенье</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nätilpäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">врач</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">dohtõri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">время</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">aikõ</t>
+       <t pos="N">tunni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">врун</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pettelikko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вся жизнь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ičä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вторник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tõinpäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вязаная кофта</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lõnkõčiutto</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">газовая плита</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">gaazapliittõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">галстук</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">galstukki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гвоздь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">naglõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гимназия</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">gimnazi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гитара</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">gitari</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">глаз</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">silme</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">глиняная миска</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">laatko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">год</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">voosi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">голова</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">голос</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ääni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">горбатый нос</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">gorbanenä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">город</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">linnõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">горох</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">erne</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гость</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">võõrõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">грамм</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">grammõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гриб</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">griba</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">грибник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">gribanikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">грибной дождь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">gribavihmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гроза</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jürü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гусли</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kannõl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гусь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">anõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дверь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">uhsi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">двор</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õvvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">двоюродная сестра</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">seukko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">двоюродный брат</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">seukko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">деверь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čälü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">девочка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tüttö</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">девушка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tüttärikko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">девчонка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tütökkõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дедушка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">äjje</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">декабрь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">dekabr̕i</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">делатель</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tečejä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дело</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">az̕z̕a</t>
+       <t pos="N">deelõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">день</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">päive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">деньги</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">raha</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">день поминовения</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pominpäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">день рождения</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">süntüpäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">деревенская улица</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kuja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дерево</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">puu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">диван</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">d̕ivani</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">добавка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lisä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дождь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vihmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">долг</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">võlkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дом</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">koto</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">домашние животные</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">žiivatõd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">домовой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">domovikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дорога</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tee</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дочка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tüttö</t>
+       <t pos="N">tütär</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дрожжи</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">iivõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">друг</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">dovariššõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дуб</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tammi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дядя</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">dääde</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дятел</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">еда</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">süüčči</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">еж</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">joožikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёлка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kuusi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">жаль</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">žaali</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">жених</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ženihhõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">женщина</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">naizikko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">живот</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vattsõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">жизнь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">elo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">забор</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">aitõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">забота</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">hooli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">заглавное слово</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ettsisõna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зад</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">takaõttsõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">закат</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lasku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">занавеска</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">zanaveskad</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">запечённый картофель</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lohko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">захолустье</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kolkku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">заяц</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jänez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зверь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">zveeri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">земля</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">maa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">земляника</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">mansikõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зеркало</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">špeili</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зима</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">talvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зло</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">paganuz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зуб</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ammõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ива</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">paju</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">иван-да-марья</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jaanikukkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Иванов день</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jaani</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">иван-чай</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">irvieine</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">игла</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">niglõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ижорский</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ižora</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">икона</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">obraazõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">имя</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nimi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">июль</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">juli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">июнь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">juni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кoпорский чай</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">irvieinečaaju</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кабан</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kaban</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кадка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">astia</t>
+       <t pos="N">possudõd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">камбала</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kampalõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">каменка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">saunačived</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">камень</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čivi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">камыш</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">glaizõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">канава</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kanavõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">капуста</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kapussõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">картофель</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">maamuna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">качели</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lõõkku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">каша</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rooppõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">квартира</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kvartira</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">квас</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">taari</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кислые щи</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">haporokkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кладбище</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kalmod</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">класс</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">klaass</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">клевер</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ärüd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">клён</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vaahtõrõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">клубника</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">mansikõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">клюква</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jevikõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">книга</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čirjõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">книжная полка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čirjõlautoo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">коcуля</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">mettsekittsi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ковш</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kolkki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">коза</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kittsi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">козёл</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pukki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">колокол</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čello</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кольцо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sõrmuz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">комар</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sääski</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">комната</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">komnatti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">компьютер</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kompjutera</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">конец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lõppu</t>
+       <t pos="N">õttsõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">конец (чего-либо)</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tünke</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">конфета</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kanfetti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">копейка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kopekkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">корабль</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">laivõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">корень слова</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sõnatüvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">корова</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lehme</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">коротко остриженный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">mulipää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">коса</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kassõ</t>
+       <t pos="N">vikahtõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кофе</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">koffi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кофта</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kamal̕ikka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кошка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">katti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">краска</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kraaskõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">красный угол</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jumalanurkkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">крёстная мать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rissimä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">крёстный отец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rissisä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кровать</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tila</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">крупа</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">suurimõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">крыжовник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">krõžovnikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">крыша</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">katto</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кувшинка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">bul̕bukõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кукушка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čako</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">курица</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kana</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">курчавая голова</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">šikripää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кусок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tükkü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куст</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pehko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кухня</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kuhni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ладонь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čäsi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лампа</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lamppi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ласточка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pääsko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">латка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">laatko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лебедь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">luikko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ленивец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vetelüz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лепёшка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čämmelkakku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лес</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">mettsä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лестница</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">turvõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лето</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">česä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лещ</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lahnõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">липа</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">liippõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лист</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">leho</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">литр</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">litra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лицо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">liittsõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лоб</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">loba</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лодка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vene</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ложка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">luzikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лосось</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lõhi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лось</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">irvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лошадь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õpõn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">луг</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">einemaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лук</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">luukkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">луна</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kuu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лягушка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">konnõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">магазин</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lafkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">май</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">maija</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">малина</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">baabukõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мальчик</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pojo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мама</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">emä</t>
+       <t pos="N">maamõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">март</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">martti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">масло</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">või</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">машина</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">mašinõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">медведь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">karu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">место</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">paikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">месяц</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kuu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">метель</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tuisku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мёд</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">mesi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">минога</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">silmu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">минута</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">minutti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мир</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">maailmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">могила</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">autõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">можжевельник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">katagõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">молодёжь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">noorizo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">молоко</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">piime</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">море</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">meri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">морковь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">borkkanõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мороз</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pakkain</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">морошка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">muragõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мост</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">siltõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мужчина</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">meez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мука</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">javo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">муха</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čärpein</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мухомор</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čärpeizegriba</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мысль</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">duumõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мышь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">iiri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мясо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">liha</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">народ</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">väči</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">настенные часы</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">seinetunnid</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">начало</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">alku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">небо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">taivõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">невеста</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">новобрачная</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">невестка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čälü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">неделя</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">näteli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">новобрачная</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">noorikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нога</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jalkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">номер</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nuumõri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нос</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nenä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">носовой платок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nenärätte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">носок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">varvõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ночь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">üü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ноябрь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nojaabri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">обед</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lõunõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">обеденнoe время</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lõunõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">образом</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">viitta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">овёс</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kagrõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">овсяной кисель</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kagrõkiisseli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">овца</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lammõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">огонь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tuli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">огород</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tara</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">огурец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ugurittsõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">одежда</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sõpa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">одуванчик</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">võikukkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">озеро</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">järvi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">окно</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">akkunõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">окунь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ahvõn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">орех</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pähčine</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">орёл</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kotko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">оса</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">öröläin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">осень</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">süčüzü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">осина</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">aapõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">отец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">isä</t>
+       <t pos="N">taattõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">охапка дров</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">riittõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">очевидец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nätsijä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">очки</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">adžgad</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">палец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sõrmi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пальто</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pal̕to</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">папа</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">isä</t>
+       <t pos="N">taattõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">папоротник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">štanajalkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пар</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">löülü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">парусник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">aluz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пастбище</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">karjõmaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пастух</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">karjušši</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Пасха</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">enipäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пенсионер</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pen̕sioner</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пень</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kanto</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">перекрёсток</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">teerissi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">песня</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">laulu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Петров день</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pädrä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">петух</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kukko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">печка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ahjo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">печник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pečnikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">печь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čühzettää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пиво</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õlud</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пиджак</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pinžakka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">платок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rätte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">погода</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ilmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">подальше</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kaugõpallõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">подарок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">podarkkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">подушка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">poduškõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">подштанники</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kaatsõd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">поезд</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pojezdõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">покрывало</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">katõsõpa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пол</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">siltõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">поле</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">põlto</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">полка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lautoo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">половик</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">maakangas</t>
+       <t pos="N">siltašiškõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">полог над постелью</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">uutimõd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">полотенце</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čäsirätte</t>
+       <t pos="N">silmärätte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">помощь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">api</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">понедельник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">esimespäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">поп</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pappi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">поросёнок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">põrzõs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">порт</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">porttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">посреди</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čehsi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">посуда</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">astia</t>
+       <t pos="N">possudõd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">потолок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">laki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">почка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pupuškõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">почтальон</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">poštaljon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">праздник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pühä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">предбанник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">saunaneüz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">прихожая</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rihenneüz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пробка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">propkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">прогон для скота</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">progonõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">продавец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">müüjä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пруд</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">bruudõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">прялка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vokki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">прятки</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pakozinõ</t>
+       <t pos="N">peitto</t>
+       <t pos="N">sokko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">птенец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">puippu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">птица</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lintu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пчела</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čimolain</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пшеница</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nisu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пятница</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">viijespäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">работа</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tüü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">радио</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">raadio</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">радуга</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ikolookkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">раз</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kõrtõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">разговор</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">juttu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">растительное масло</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">seemenvõi</t>
+       <t pos="N">seemvõi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">растрёпа</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">šaaripää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ребенок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lahsi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">река</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jõki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">репа</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nagriz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рецепт</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">retseptõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">родственник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sukulain</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Рождество</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jõulu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рожь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rüiz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рот</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">suu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рубашка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čiutto</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рука</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čämmel</t>
+       <t pos="N">čäsi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">русский</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">venäläin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рыба</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kala</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рыбец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vimpõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рябина</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pihlajõpuu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сад</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">saadu</t>
+       <t pos="N">tara</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">салака</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">haili</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">самолёт</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">samal̕otti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сапог</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">saappõgõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сарафан</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sarafanõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сауна</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">saunõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сахар-песок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sukkurliivõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">свёкла</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">fökle</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">свинья</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">село</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čülä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сельдь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">seldi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">семья</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">pere</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">семя</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">seemen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сено</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">eine</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сентябрь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sentäbri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">серёжки</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tiltukõd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сетка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">võrkko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сила</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">võimõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">синица</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tihakkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сирень</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sirenipuu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сито</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">siglõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сказка о репке</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nagriskaaskõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">скамейка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">järtšü</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">скворец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kultanokkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сковорода</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rehtele</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">слива</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">slivapuu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сливки</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">slivgõd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">слово</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sõna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сметана</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">koori</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сморчок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">morško</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">снег</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lumi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">снегирь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lumilintu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">собака</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">koirõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">согласие</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">üvä sopu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">солнце</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">päivüd</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">соловей</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sisavõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">соль</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">soolõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сон</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">uni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">соня</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">unikotti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сопляк</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sookkunenä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сорока</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">harakkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сосед</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">naapõri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сосна</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">petäje</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">спина</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">selče</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">среда</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kõlmaspäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">стадо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">karjõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">стакан</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">stokanõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">стебель</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">varsi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">стена</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">seine</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">стог</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kuhjõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">стол</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lauta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">стул</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">stuuli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">стыд</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">äppiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">суббота</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">laukopäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">судак</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kuha</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сумка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">suma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сундук</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kirstu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">суп</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">suppi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">счастье</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õnni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сын</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">poikõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сырть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vimpõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">телевизор</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">televizora</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">телефон</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">telefona</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тесто</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">taičinõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тётя</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">täti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ткань</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kangas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">трава</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">roho</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">труба</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">trubõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">трудность</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">raskõuz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">туалет</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nužnikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">туфля</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čenče</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">угорь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">angõriaz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">удача</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õnni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">удочка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õnki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">украинец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ukrainalain</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">укроп</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">ukroppi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">университет</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">üliškoulu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">урожай</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">vil̕l̕a</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">урок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">urokkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">усы</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">usad</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">утёнок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sorzapuippu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">утка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sorsõ</t>
+       <t pos="N">sorzaemä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ухо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kõrvõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">учёба</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õppõmin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">учитель</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õpõttõja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">фартук</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">fartukkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">февраль</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">fevrali</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">фильм</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">filmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">финка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">soomõlain</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">финн</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">soomõlain</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">фотография</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">fotokartočka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">хлам</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">hlaamu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">хлеб</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">leipe</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">хлев</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lauttõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">хозяин</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">peremmeez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">цветок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kukkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">церковь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čerikko</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чeрная смородина</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">mussamarjõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чай</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čaaju</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чайка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kajagõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">час</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tunni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">часы</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tunnid</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чело</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">loba</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">человек</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">inimin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">черёмуха</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">toomipuu</t>
+       <t pos="N">toomi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">черника</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">musikõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">четверг</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">nellespäive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чтение</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">lukõmin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чудо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kummõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чулок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">sukkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шапка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">hattu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шапочка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">hatukkõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">швея</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õmpõlija</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шерсть</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">villõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шея</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kaglõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шкаф</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kaappi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">школа</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">škoulu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шоколад</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">šokolada</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шоссе</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">šoseika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">штаны</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">štanad</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шторм</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">tormi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шуба</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">šuubõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">щека</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">põski</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">щи</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">rokkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">щитовник</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">štanajalkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">щука</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">auki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эстонец</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">virolain</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юбка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">jupkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">яблоня</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">omõnpuu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ягнёнок</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">võdnõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ягода</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">marjõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">язык</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">čeeli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">яичная подливка</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">kasõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">яйцо</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">muna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">январь</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">janvari</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ячмень</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õzrõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ячневик</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="N">õzrikko</t>
+     </tg>
+   </mg>
+</e>
+</r>

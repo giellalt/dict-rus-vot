@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusvot" xml:lang="rus">
+<e>
+   <lg>
+     <l pos="CS">если</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="CS">kui</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">хотя</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="CS">vakkõ</t>
+     </tg>
+   </mg>
+</e>
+</r>

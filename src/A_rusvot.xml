@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusvot" xml:lang="rus">
+<e>
+   <lg>
+     <l pos="A">бедный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">köühe</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">белый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">valka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">богатый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">rahakõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">больной</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">läsive</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">большой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">suuri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">бородатый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">partõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">бурый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ruska</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вежливый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">siivollin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">весёлый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ilozõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вздорный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">riitelikõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">водский</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">vad̕d̕a</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">всякий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kõikõllain</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">высокий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kõrka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">гадкий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ilka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">глупый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">vohmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">горбоносый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">gorbanenä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">готовый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">valmiz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">грязный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">roojakõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">долой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">väl̕l̕ä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">дорогой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kalliz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">жадный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ahnõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">желтый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kõltõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">зверобой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">zveraboi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">здоровый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">terve</t>
+       <t pos="A">varmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">зелёный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">rohoin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">злой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">pagan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">знакомый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">tuttavõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">золотой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kultõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">известный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kuuluvõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кипрей</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">irvieine</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кислый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">hapo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">коренастый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">jämmiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">коричневый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ruska</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">короткий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">lühüd</t>
+       <t pos="A">matalõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">крапчатый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">prikukkõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">красивый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">lusti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">красный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kauniz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кудрявый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">čikkarõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">легкий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kerkä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ленивый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">laiskõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">летний (лет)</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">vootin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">лысый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">bulipää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">маленький</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">peeni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">медленный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">il̕l̕õkkõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">многоцветный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">čirjavõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мокрый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">märče</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">молодой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">noori</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">морщинистый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">čimarõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мудрёный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">muudrõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">мягкий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">pehmiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">несолёный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">tuimõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">нетерпеливый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kippu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">новый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">uusi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">носатый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">nenakõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">одинаковый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ühellain</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">передняя</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">rihenneüz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пестрый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">čirjavõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">плохой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">märännü</t>
+       <t pos="A">paha</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">покладистый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">sopuzõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">полoсатый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">viirukõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">полный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">täünne</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">порядочный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">siivo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">правый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">õika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">прохладный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">viiliä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пустой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">tühjõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">радостный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">iloza</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">русский</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">venäläin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">свежий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">siitiä</t>
+       <t pos="A">sveeža</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">светлый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">valka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">серый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">harma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сильный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">varmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">синий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">sinin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сладкий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">makka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">смелый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">jurmõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">солёный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">soolõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">средний</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">keskollin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">старый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">vana</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">стройный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">hoikkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сухой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kuivõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">счастливый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">õnnõkõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тесный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ahaz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тёмный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">pimmiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тёплый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">vari</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тихий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">tüüni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">толстый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">paksu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тонкий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">heeno</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">трудный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">rankkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тяжелый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">raskõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">узкий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ahas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">умный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">tarkkõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">усердный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ahkõrõ</t>
+       <t pos="A">ahnõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">уступчивый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">sopuzõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">финский</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">soomõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">хитрый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kavalõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">холодный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">čülme</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">холодный и сухой (ветер)</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">ahavõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">хороший</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">üvä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">худенький</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">kehnokkõin</t>
+       <t pos="A">lahjukkõin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">черный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">mussõ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">честный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">rehellin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чистый</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">puhaz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чужой</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">võõrõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шерстяной</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">lõnkõn</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">широкий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">lad̕d̕õ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">яркий</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">čirkõz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ясный</l>
+     <stg><st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="vot">
+       <t pos="A">siitiä</t>
+     </tg>
+   </mg>
+</e>
+</r>
